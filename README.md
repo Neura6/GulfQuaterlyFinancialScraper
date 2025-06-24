@@ -1,4 +1,6 @@
 
+# Gulf Quaterly Financial Scraper
+
 This is a Python-based automation tool that scrapes, processes, renames, and uploads financial reports (PDFs) from various stock exchanges in the GCC (Gulf Cooperation Council) region.
 
 Supported Countries:
